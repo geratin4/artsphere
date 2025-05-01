@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 768">
+  <defs>
+    <radialGradient id="radial-gradient" cx="700.5" cy="382.5" fx="700.5" fy="382.5" r="465.78" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset=".06" stop-color="#c2dcf2"/>
+      <stop offset=".17" stop-color="#a9d2ee"/>
+      <stop offset=".31" stop-color="#7fc2e7"/>
+      <stop offset=".46" stop-color="#46abdd"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="43.99" y1="143.38" x2="82.99" y2="143.38" gradientTransform="translate(0 2)" gradientUnits="userSpaceOnUse">
+      <stop offset=".04" stop-color="#42210b"/>
+      <stop offset=".55" stop-color="#a67c52"/>
+      <stop offset="1" stop-color="#42210b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="33.5" y1="383.5" x2="92.5" y2="383.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset=".06" stop-color="#c2dcf2"/>
+      <stop offset=".17" stop-color="#a9d2ee"/>
+      <stop offset=".31" stop-color="#7fc2e7"/>
+      <stop offset=".46" stop-color="#46abdd"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="145" y2="145" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" y1="621.5" y2="621.5" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="45.88" y1="661.63" x2="82.12" y2="661.63" gradientTransform="translate(0 1303.03) scale(1 -1)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="45.49" y1="641.78" x2="82.5" y2="641.78" gradientTransform="translate(0 1303.03) scale(1 -1)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="46" y1="682.19" x2="82" y2="682.19" gradientTransform="translate(0 330.13) scale(1 .43)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="45.84" y1="1168.21" x2="82.08" y2="1168.21" gradientTransform="translate(0 -1042.23)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="45.44" y1="1148.36" x2="82.46" y2="1148.36" gradientTransform="translate(0 -1042.23)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="45.96" y1="-499.81" x2="81.96" y2="-499.81" gradientTransform="translate(0 -69.33) scale(1 -.43)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g>
+      <rect x="82.5" y="154.5" width="1236" height="456" style="fill: url(#radial-gradient); stroke-width: 0px;"/>
+      <path d="M1318,155v455H83V155h1235M1319,154H82v457h1237V154h0Z" style="fill: #000; stroke-width: 0px;"/>
+    </g>
+    <rect x="73.5" y="162.5" width="1235" height="440" style="fill: #a67c52; stroke: #000; stroke-miterlimit: 10;"/>
+    <image width="800" height="457" transform="translate(93 163) scale(1.52 .96)" xlink:href="../../../../../../Downloads/oldpapertexture.webp"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <polyline points="43.99 147.77 43.99 143 82.99 143 82.99 147.65" style="fill: url(#linear-gradient); opacity: .35; stroke: #000; stroke-miterlimit: 10;"/>
+    <g>
+      <rect x="33.5" y="145.5" width="59" height="476" style="fill: url(#linear-gradient-2); stroke-width: 0px;"/>
+      <path d="M92,146v475h-58V146h58M93,145h-60v477h60V145h0Z" style="fill: #000; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <path d="M63,153.5c-17.65,0-29.5-4.4-29.5-8.5s11.85-8.5,29.5-8.5,29.5,4.4,29.5,8.5-11.85,8.5-29.5,8.5Z" style="fill: url(#linear-gradient-3); stroke-width: 0px;"/>
+      <path d="M63,137c17.09,0,29,4.22,29,8s-11.91,8-29,8-29-4.22-29-8,11.91-8,29-8M63,136c-16.57,0-30,4.03-30,9s13.43,9,30,9,30-4.03,30-9-13.43-9-30-9h0Z" style="fill: #000; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <path d="M63,631.5c-15.99,0-29.5-4.58-29.5-10s13.51-10,29.5-10,29.5,4.58,29.5,10-13.51,10-29.5,10Z" style="fill: url(#linear-gradient-4); stroke-width: 0px;"/>
+      <path d="M63,612c17.35,0,29,4.91,29,9.5s-11.65,9.5-29,9.5-29-4.91-29-9.5,11.65-9.5,29-9.5M63,611c-16.57,0-30,4.7-30,10.5s13.43,10.5,30,10.5,30-4.7,30-10.5-13.43-10.5-30-10.5h0Z" style="fill: #000; stroke-width: 0px;"/>
+    </g>
+    <polyline points="45.88 621.78 45.88 661 82.12 661 82.12 622.72" style="fill: url(#linear-gradient-5); stroke-width: 0px;"/>
+    <ellipse cx="63.99" cy="661.24" rx="18.51" ry="3.7" style="fill: url(#linear-gradient-6); stroke: #000; stroke-miterlimit: 10;"/>
+    <ellipse cx="64" cy="622.5" rx="18" ry="5.5" style="fill: url(#linear-gradient-7); stroke-width: 0px;"/>
+    <polyline points="45.84 145.59 45.84 106.37 82.08 106.37 82.08 144.65" style="fill: url(#linear-gradient-8); stroke-width: 0px;"/>
+    <ellipse cx="63.95" cy="106.13" rx="18.51" ry="3.7" style="fill: url(#linear-gradient-9); stroke: #000; stroke-miterlimit: 10;"/>
+    <ellipse cx="63.96" cy="144.87" rx="18" ry="5.5" style="fill: url(#linear-gradient-10); stroke-width: 0px;"/>
+  </g>
+</svg>
